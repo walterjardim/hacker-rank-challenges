@@ -1,5 +1,10 @@
 package com.hackerrank.challenge;
 
+/**
+ * Bubble Sort concepts
+ * @author walterjardim
+ *
+ */
 public class NewYearChaosSolution {
 
 	public static void main(String[] args) {

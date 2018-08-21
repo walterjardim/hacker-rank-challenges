@@ -2,6 +2,11 @@ package com.hackerrank.challenge;
 
 import java.util.Arrays;
 
+/**
+ * Circular Array concepts
+ * @author walterjardim
+ *
+ */
 public class LeftRotationSolution {
 
 	public static void main(String[] args) {
