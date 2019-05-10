@@ -1,4 +1,4 @@
-package com.hackerrank.challenge;
+package com.hackerrank.challenge.arrays;
 
 /**
  * Return the minimum number of swaps to sort the given array.

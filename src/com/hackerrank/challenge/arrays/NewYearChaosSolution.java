@@ -1,4 +1,4 @@
-package com.hackerrank.challenge;
+package com.hackerrank.challenge.arrays;
 
 /**
  * Bubble Sort concepts
